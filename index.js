@@ -9,7 +9,19 @@ inquirer
             {
                 type:"input",
                 name: "textLogo",
-                message:"Please enter between 1 and 3 characters. "
+                message:"Please enter between 1 and 3 characters. ",
+                validate: function(textLogo){
+                    if(textLogo.length <=3 && textLogo.length !== 0){
+                        return true;
+                    } else if(textLogo.length === 0){
+                        console.log(' Please enter up to 3 characters')
+                        return false;
+                    } else{
+                        console.log(' Please enter a max of 3 characters')
+                        return false;
+                    }
+                }
+               
             },
             {
                 type:"input",
