@@ -40,7 +40,7 @@
   MIT License 
  
   ## Tests
-  [Video example](./images/test-run.mp4)
+  [Video of test run](./images/test-run.mp4)
   ![svg-terminal-screenshot](./images/svg-terminal-screenshot.png)
 
   ![circle-svg.png](./images/circle-svg.png)
