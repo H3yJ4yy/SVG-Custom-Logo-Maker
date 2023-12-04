@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const logoContent = require('./lib/shapes.js')
+const {logoContent} = require('./lib/shapes.js')
 const {writeFile} = require('fs/promises')
 
 function generateLogo(){

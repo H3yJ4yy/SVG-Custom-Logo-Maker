@@ -1,6 +1,24 @@
 {
+  "name": "svg-custom-logo-maker",
+  "version": "1.0.0",
+  "description": "### Description  inquirer 8.2.4, jest 29.7.0   ### Table of Contents (Optional)",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/shapes.test.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.4",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
     "jest": "^29.7.0"
   }
 }
