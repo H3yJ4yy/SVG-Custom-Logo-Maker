@@ -40,7 +40,7 @@
   MIT License 
  
   ## Tests
-  ![Video of test run](https://www.awesomescreenshot.com/video/23003875?key=f43ff410c8ea884a6ce13b0149969076)
+  ![Video of test run](https://github.com/H3yJ4yy/SVG-Custom-Logo-Maker/issues/1#issue-2024858253)
 
   ![svg-terminal-screenshot](./images/svg-terminal-screenshot.png)
 
