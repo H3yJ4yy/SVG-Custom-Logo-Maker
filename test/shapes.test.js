@@ -3,7 +3,7 @@ test ("can create a triangle shape.", ()=>{
     const triangle = new Triangle("blue", "AAA", "red")
     expect(triangle.render()).toBe(`<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300px" height="200px">`)
     expect(triangle.renderEnd()).toBe(`</svg>`)
-    expect(triangle.renderShape()).toBe(`<polygon points="150,0 300,200 0,200" fill="blue" /><text x="150" y="125" class="text" fill="red" text-anchor="middle">AAA</text>`)
+    expect(triangle.renderShape()).toBe(`<polygon points="150,0 300,200 0,200" fill="blue" /><text x="150" y="150" font-size="60" class="text" fill="red" text-anchor="middle">AAA</text>`)
 })
 
 test ("can create a circle shape.", ()=>{

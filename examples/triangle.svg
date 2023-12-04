@@ -1,2 +1,1 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300px" height="200px"><polygon points="150,0 300,200 0,200" fill="#DEC49E" /><style>
-        .text{font-size: 50px;}</style><text x="150" y="125" class="text" fill="#AD6B3E" text-anchor="middle">AGV</text></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300px" height="200px"><polygon points="150,0 300,200 0,200" fill="#DEC49E" /><text x="150" y="150" font-size="60" class="text" fill="#AD6B3E" text-anchor="middle">AGV</text></svg>
