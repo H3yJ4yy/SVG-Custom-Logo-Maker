@@ -21,7 +21,7 @@
   `jest 29.7.0`
 
   ## Installation
-  1. Download the repository for the application at https://github.com/H3yJ4yy/SVG-Custom-Logo-Maker, and make sure you have Studio Visual Code installed.
+  1. Download the repository for the application at https://github.com/H3yJ4yy/SVG-Custom-Logo-Maker, and make sure you have Visual Studio Code installed.
   2. Open the application on VS Code, and in the integrated terminal install node.js v16.
   3. Using the integrated terminal, type in `npm init -y` to initiate the application.
   4. Using the integrated termional, type `npm i inquirer@8.2.4` to install the inquirer package. Then typoe in `npm i --save-dev jest` to install Jest (allows us to test out application from bugs)
@@ -40,9 +40,15 @@
   MIT License 
  
   ## Tests
+  [Video example](./images/test-run.mp4)
+  ![svg-terminal-screenshot](./images/svg-terminal-screenshot.png)
+
   ![circle-svg.png](./images/circle-svg.png)
+
   ![square-svg.png](./images/square-svg.png)
+
   ![triangle-svg.png](./images/triangle-svg.png)
+
 
   ## Contact 
   For any further questions, feel free to contact me through my GitHub [H3yJ4yy](https://github.com/H3yJ4yy) or Email [agon0015@gmail.com](mailto:agon0015@gmail.com).
