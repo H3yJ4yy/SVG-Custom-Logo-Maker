@@ -40,7 +40,8 @@
   MIT License 
  
   ## Tests
-  [Video of test run](./images/test-run.mp4)
+  ![Video of test run](https://www.awesomescreenshot.com/video/23003875?key=f43ff410c8ea884a6ce13b0149969076)
+
   ![svg-terminal-screenshot](./images/svg-terminal-screenshot.png)
 
   ![circle-svg.png](./images/circle-svg.png)
